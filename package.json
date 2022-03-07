@@ -1,0 +1,25 @@
+{
+  "name": "a00-ashwins-unc",
+  "version": "0.0.1",
+  "description": "setup assignment",
+  "main": "main.js",
+  "scripts": {
+    "test": "npx browser-sync start -sw"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-spring/a00-ashwins-unc.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Ashwin Y",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-spring/a00-ashwins-unc/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-spring/a00-ashwins-unc#readme",
+  "dependencies": {
+    "browser-sync": "^0.9.1"
+  }
+}
